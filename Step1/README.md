@@ -51,5 +51,16 @@ $$ \textbf{Net Worth} = \textbf{Assets} - \textbf{Liabilities}$$
 
 This is either very incouriging or a punch in the face, either way this gives you a direction, **Increase Your Bloody Net Worth**.
 
+## My first Step
 
+As I am currently only 21 the first step was rather easy. Still I was surprised at the result of [A](#step-one-a), this step calculation is done in [this spread sheet](Step1A.csv), its result is 
+
+$$ \textbf{Money Earned In My Entire Life Until 30/1/21} = 248,442.05 \text{(NIS)$$
+
+Which is much more the I thought. Doing step [B](#step-one-b) in [this spread sheet](Step1B.csv) 
+
+$$ \textbf{Net Worth (30/01/2021)} = 87471.33 \text{(NIS)}
+$$
+
+This concludes step one for me, for any who read this hope this was helpfull.
 
