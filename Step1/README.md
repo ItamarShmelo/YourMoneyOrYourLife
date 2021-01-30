@@ -23,3 +23,33 @@ This step consists of calculating the sum of all the income you have ever reciev
 - Anything else you can think of
 
 This step gives you the realtization that you are worth **A LOT**. It helps you forget the myths you have about earning money and gives you solid ground to start working on.
+
+## Step One B
+
+This step consists of finding what you got to "show for it" i.e what do you have left from the *X* calculated in [A](#step-one-a). You need to calculate to things, your **Assets**, or in simpler words everything you have thats worth a damn. The second is your **Liabilities**, which is everything you owe. For example
+
+### Assets:
+
+- Money in the bank
+- Money in investment accounts
+- Your home and any other houses you own
+- Pension.
+- Advanced Study Fund
+- Cash under the bed
+- Etc.
+
+### Liabilities
+
+- Loans
+- Future payments of any kind
+- Mortgage
+- Etc.
+
+What you have to "show for it" is your net worth
+
+$$ \textbf{Net Worth} = \textbf{Assets} - \textbf{Liabilities}$$
+
+This is either very incouriging or a punch in the face, either way this gives you a direction, **Increase Your Bloody Net Worth**.
+
+
+
