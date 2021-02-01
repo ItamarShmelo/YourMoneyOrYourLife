@@ -28,4 +28,4 @@ Unfortunately my hourly wage is currently quite low but it is about to change in
 
 $$\textbf{Real Hourly Wage (30/1/21)} = 13.75\frac{\text{NIS}}{\text{hour}}$$
 
-[Step two B](#step-two-b) is done in [this spread sheet](Step2B.csv) and it will be updated on the go (currently 30/01/2021, 18:13).
+[Step two B](#step-two-b) is done in [this spread sheet](Step2B.csv) and it will be updated on the go (currently 01/02/2021, 18:13).
