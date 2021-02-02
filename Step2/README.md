@@ -26,6 +26,6 @@ This is the best way to become concious about your money, the best way to have a
 
 Unfortunately my hourly wage is currently quite low but it is about to change in the following month, I have no transit fees as a live close to work I have some bad habits but they are not connected to my job. The result of [A](#step-two-a) is calculate in [this spread sheet](Step2A.csv), the result:
 
-$$\textbf{Real Hourly Wage (30/1/21)} = 13.75\frac{\text{NIS}}{\text{hour}}$$
+$$\textbf{Real Hourly Wage (30/1/21)} = 29.23\frac{\text{NIS}}{\text{hour}}$$
 
 [Step two B](#step-two-b) is done in [this spread sheet](Step2B.csv) and it will be updated on the go.
